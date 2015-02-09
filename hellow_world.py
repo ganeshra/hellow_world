@@ -1,1 +1,1 @@
-print "Hellow World!!! This is the United Kingdom calling!"
+print "Hellow World!!!"
